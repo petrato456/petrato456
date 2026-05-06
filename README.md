@@ -1,16 +1,28 @@
-## Hi there 👋
+# Matheus Petrato
 
-<!--
-**petrato456/petrato456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-focused Full Stack Engineer building scalable systems and AI products.
 
-Here are some ideas to get you started:
+## Stack
+- Node.js
+- TypeScript
+- React Native
+- Next.js
+- PostgreSQL
+- Redis
+- Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Distributed systems
+- AI applications
+- Observability
+- System Design
+- Event-driven architecture
+
+## Projects
+- Bus tracking platform
+- AI nutrition SaaS
+- Digital wallet system
+- Blind dating mobile app
+
+## Contact
+- LinkedIn: https://linkedin.com/in/matheus-petra
