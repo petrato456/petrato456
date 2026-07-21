@@ -1,21 +1,7 @@
-# Olá! Eu sou o Matheus Petrato 👋
+# Matheus Petrato
 
-Software Engineer focado em Backend e Arquitetura.
+Software Engineer
 
-💻 Stack
-- Node.js
-- TypeScript
-- .NET
-- PostgreSQL
-- React
-- React Native
+Backend • .NET • Node.js • PostgreSQL • React Native
 
-🚀 Atualmente
-- Desenvolvendo um módulo de Ponto Eletrônico (REP-P)
-- Estudando Clean Architecture e DDD
-- Aprendendo C#/.NET
-
-📚 Objetivos
-- Backend
-- Arquitetura
-- Sistemas distribuídos
+Construindo sistemas escaláveis, APIs e aplicações distribuídas.
